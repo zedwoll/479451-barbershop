@@ -1,6 +1,6 @@
 # Учебный проект «Барбершоп»
 
-* Студент: [desderdev](https://up.htmlacademy.ru/htmlcss/18/user/479451).
+* Студент(так уж вышло): [desderdev](https://up.htmlacademy.ru/htmlcss/18/user/479451).
 
 ---
 
